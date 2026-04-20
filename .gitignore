@@ -1,0 +1,44 @@
+# Compiled binaries
+*.apk
+*.dex
+*.class
+*.o
+*.so
+*.exe
+*.dll
+
+# Exploit binaries
+02_payloads/android/phoenix_kernel_*
+02_payloads/linux/phoenix_kernel_*
+02_payloads/windows/*
+
+# Android NDK (too large)
+04_tools/ndk/
+
+# Logs and reports
+05_logs/*.log
+06_reports/*.txt
+06_reports/*.pdf
+
+# Metasploit files
+04_tools/metasploit/*.rc
+.msf4/
+.metasploit/
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
+
+# Sensitive information
+*.key
+*.pem
+*.crt
+.env
+config.yml
+
+# Docker
+docker-compose.override.yml
