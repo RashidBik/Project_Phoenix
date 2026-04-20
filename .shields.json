@@ -1,0 +1,23 @@
+{
+  "name": "Project Phoenix",
+  "badges": [
+    {
+      "name": "version",
+      "label": "version",
+      "message": "2.0",
+      "color": "blue"
+    },
+    {
+      "name": "license",
+      "label": "license",
+      "message": "MIT",
+      "color": "green"
+    },
+    {
+      "name": "platform",
+      "label": "platform",
+      "message": "Android",
+      "color": "red"
+    }
+  ]
+}
