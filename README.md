@@ -53,7 +53,6 @@ text
 
 ## 🚀 Quick Start
 
-```bash
 # Clone the repository
 git clone https://github.com/YOUR_USERNAME/Project_Phoenix.git
 cd Project_Phoenix
@@ -163,10 +162,6 @@ Create an issue in this repository
 Check the documentation first
 
 Made with 🔥 by Security Researchers | Version 2.0 | April 2026
-EOF
-
-۴. ایجاد CONTRIBUTING.md
-cat > CONTRIBUTING.md << 'EOF'
 
 Contributing to Project Phoenix
 Thank you for your interest in contributing to Project Phoenix!
@@ -238,8 +233,6 @@ No malicious intent
 Help others learn
 
 Thank you for contributing responsibly!
-EOF
 
-echo "✅ فایل‌های GitHub آماده شدند!"
 
 
